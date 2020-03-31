@@ -1,9 +1,7 @@
-# START:head
 the_vim_way.pml
 normal_mode.pml
 insert_mode.pml
 visual_mode.pml
-# END:head
 ex_mode.pml
 managing_files.pml
 files.pml
